@@ -1,8 +1,7 @@
 # weekly-summary-reports
-[View Summaries](#summaries)
-
-
 Track what was done for the week for the Baltimore County Web Services team.
+
+[View Summaries](#summaries)
 
 ## Overview
 The summaries listed below are a snapshot of the [Baltimore County Web Priorities Project](https://github.com/orgs/baltimorecounty/projects/1). In addition, new technologies and any other releveant items can be noted.
