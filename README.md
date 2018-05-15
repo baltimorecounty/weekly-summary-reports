@@ -1,4 +1,6 @@
 # weekly-summary-reports
+[View Summaries](#Summaries)
+
 Track what was done for the week for the Baltimore County Web Services team.
 
 ## Overview
