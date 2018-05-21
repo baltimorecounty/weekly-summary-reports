@@ -7,7 +7,7 @@ Track what was done for the week for the Baltimore County Web Services team.
 The summaries listed below are a snapshot of the [Baltimore County Web Priorities Project](https://github.com/orgs/baltimorecounty/projects/1). In addition, new technologies and any other releveant items can be noted.
 
 ## Process
-At the end of each week, or the start of the new week create release notes for Monday thorugh Friday, using this [template](template.md). 
+At the end of each week, or the start of the new week create release notes for Monday thorugh Friday, using this [template](template.md).
 
 Be sure to:
 1. Add the summary links to this document
@@ -15,3 +15,4 @@ Be sure to:
 
 ## Summaries
 - [May 2nd to 11th](may-2-11.md)
+- [May 14th to 18th](may-14-18.md)
