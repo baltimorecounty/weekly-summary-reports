@@ -21,6 +21,7 @@ Be sure to:
 
 ### 2018
 
+- [June 18th to June 24th](2018-june-18-24.md)
 - [June 11th to June 15th](/2018/2018-june-11-15.md)
 - [June 4th to June 8th](/2018/2018-june-4-8.md)
 - [May 29th to June 1st](/2018/2018-may-29-june-1.md)
