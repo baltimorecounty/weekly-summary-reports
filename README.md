@@ -21,6 +21,7 @@ Be sure to:
 
 ### 2018
 
+- [August 13th to August 24th](/2018/2018-aug-13-24.md)
 - [July 2nd to July 6th](/2018/2018-july-2-6.md)
 - June 25th to June 29th (we were bad, and there are no notes for this week)
 - [June 18th to June 24th](/2018/2018-june-18-24.md)
